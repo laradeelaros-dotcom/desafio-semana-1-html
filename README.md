@@ -1,6 +1,6 @@
 # Ciber Defender
 
-**Proposito do site**: Este é um site de uma empresa especializada em ciber defesa, com o proposito de divulgar seus serviços. Apresentando como atuam, seus valores, quais principais ferramentas e como atuam. 
+**Proposito do site**: Este é um site de uma empresa especializada em ciber defesa, com o proposito de divulgar seus serviços. Apresentando como atuam, seus valores, quais principais ferramentas que utilizam. 
 
 **Obejtivo**: O objetivo deste projeto é aplicar conceitos de HTML semântico, inserindo tags como; header, main, article, section, aside, nav, footer. Utilizando também na parte de estilização o CSS, testando estrutaras como margin, padding e font-family, background-color, color, text-align, border, width, entre outros.
 
@@ -14,6 +14,13 @@
 <aside> - Criação de um Sidebar com mais algumas informações de serviços, links e imagem. 
 <nav> - Links de navegação. 
 <footer> - Nome da empresa, breve explicação sobre ela e copyrigth com o nome da desenvolvedora e o ano que foi criado o projeto. 
+
+**Foi criado 4 arquivos HTML**
+# Pagina principal
+# Home
+# Sobre
+# Contato
+
 
 # DESENVOLDORA: Lara Dela Rosa Santiago. 
 
